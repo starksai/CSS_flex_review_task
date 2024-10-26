@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+
+.header{
+    background: linear-gradient(to left top, rgb(117, 87, 31), rgb(184, 147, 80));
+    text-align: center;
+    text-decoration: underline;
+    padding: 1.5vh;
+    color: white;
+    margin-bottom: 1vh;
+}
+
+.section{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 5%;
+    gap: 2px;
+    margin-bottom: 1vh;
+}
+
+.box{
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+}
+
+.card-underline{
+    text-decoration: underline;
+}
+
+.fotter{
+    background: linear-gradient(to left top, rgb(117, 87, 31), rgb(184, 147, 80));
+    text-align: center;
+    padding: 0.4vh;
+
+
+}
