@@ -26,6 +26,8 @@ body{
     border-radius: 5px;
     text-align: center;
     background-color: white;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 .card-underline{
